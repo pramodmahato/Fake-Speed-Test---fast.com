@@ -3,6 +3,8 @@
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
+![Fast.com](https://github.com/pramodmahato/Fake-Speed-Test-CHROME-EXTENSION/blob/main/images/logo.png?raw=true)
+
 This extension will help you fake your internet speed test according to your custom input.
 
 - Install the extension
